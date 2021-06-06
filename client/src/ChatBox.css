@@ -1,0 +1,11 @@
+.chat-box {
+  flex-grow: 10;
+  max-height: 60vh;
+  max-width: 500px;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: auto;
+  width: 400px;
+  color: white;
+  overflow-y: auto;
+}

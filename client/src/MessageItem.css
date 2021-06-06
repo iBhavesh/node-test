@@ -1,0 +1,30 @@
+.messageItem-right {
+  display: flex;
+  margin: auto;
+  margin-top: 1em;
+  justify-content: flex-end;
+}
+
+p.right {
+  background-color: #191818;
+  margin-right: 0.5em;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  border-bottom-right-radius: 0px;
+  padding: 1rem;
+}
+.messageItem-left {
+  display: flex;
+  margin: auto;
+  margin-top: 1em;
+  justify-content: flex-start;
+}
+
+p.left {
+  background-color: #656363;
+  margin-left: 0.5em;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  border-bottom-left-radius: 0px;
+  padding: 1rem;
+}

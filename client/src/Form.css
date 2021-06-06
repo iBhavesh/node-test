@@ -1,0 +1,33 @@
+.form {
+  color: white;
+  width: 400px;
+  margin: auto;
+}
+
+.form-group {
+  margin: 1rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.form-group label {
+  margin-right: 1rem;
+}
+
+.form-group input {
+  padding: 0.5rem;
+  border: 1px solid white;
+  border-radius: 25px;
+  width: 17rem;
+}
+.form-group textarea {
+  width: 17rem;
+}
+
+.form-group button {
+  width: 6rem;
+  padding: 0.5rem;
+  border-radius: 10px;
+  border: 1px solid white;
+  background-color: white;
+}

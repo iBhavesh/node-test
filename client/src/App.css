@@ -1,0 +1,21 @@
+html,
+body,
+div#root {
+  height: 100vh;
+}
+
+.container {
+  padding-top: 0.5rem;
+  min-height: 95vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container {
+  flex-grow: 1;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 1rem;
+  max-width: 500px;
+}
